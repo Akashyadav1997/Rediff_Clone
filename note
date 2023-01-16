@@ -1,0 +1,20 @@
+        <div class="topicons">
+           <ul class="nav navbar-nav">
+            <li><a href="#" class="glyphicon glyphicon-envelope"></a></li>
+            <li><a href="#" class="glyphicon glyphicon-signal"></a></li>
+            <li><a href="#" class="fa-solid fa-envelope-circle-check"></a></li>
+            <li><a href="#" class="glyphicon glyphicon-envelope"><i class="fa-solid fa-indian-rupee-sign" id="bussiness-logo"></i></a></li>
+            <li><a href="#"  class="fa-sharp fa-solid fa-cart-shopping"></a></li>
+            <li><a href="#" class="fa-solid fa-tv"><i class="fa-sharp fa-solid fa-play" id="tv-icon-play"></i></a></li>
+       
+           </ul>
+        </div>
+
+
+        <i class="fa-solid fa-signal-bars"></i>
+
+        class="fa-solid fa-arrow-trend-up"
+
+
+        Q. Why media Query is not working ?
+        Q. 
